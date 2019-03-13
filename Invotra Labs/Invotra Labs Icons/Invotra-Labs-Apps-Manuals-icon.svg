@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="48px" viewBox="0 0 50 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Invotra-Labs-Apps-Manuals-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,13 L18,13 C16.9,13 16,13.9 16,15 L16,29 L18,29 L18,15 L30,15 L30,13 Z M29,17 L22,17 C20.9,17 20.01,17.9 20.01,19 L20,33 C20,34.1 20.89,35 21.99,35 L33,35 C34.1,35 35,34.1 35,33 L35,23 L29,17 Z M22,33 L22,19 L28,19 L28,24 L33,24 L33,33 L22,33 Z" id="path-1"></path>
+    </defs>
+    <g id="Invotra-Labs-Apps-Manuals-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon/content/file_copy_24px" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

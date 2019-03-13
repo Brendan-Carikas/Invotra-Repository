@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="50px" height="48px" viewBox="0 0 50 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>invotra-labs-apps-admin</title>
+    <title>Invotra-Labs-Apps-Admin-icon</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M33.5555556,15.4444444 L33.5555556,17.8888889 L28.6666667,17.8888889 L28.6666667,15.4444444 L33.5555556,15.4444444 Z M21.3333333,15.4444444 L21.3333333,22.7777778 L16.4444444,22.7777778 L16.4444444,15.4444444 L21.3333333,15.4444444 Z M33.5555556,25.2222222 L33.5555556,32.5555556 L28.6666667,32.5555556 L28.6666667,25.2222222 L33.5555556,25.2222222 Z M21.3333333,30.1111111 L21.3333333,32.5555556 L16.4444444,32.5555556 L16.4444444,30.1111111 L21.3333333,30.1111111 Z M36,13 L26.2222222,13 L26.2222222,20.3333333 L36,20.3333333 L36,13 Z M23.7777778,13 L14,13 L14,25.2222222 L23.7777778,25.2222222 L23.7777778,13 Z M36,22.7777778 L26.2222222,22.7777778 L26.2222222,35 L36,35 L36,22.7777778 Z M23.7777778,27.6666667 L14,27.6666667 L14,35 L23.7777778,35 L23.7777778,27.6666667 Z" id="path-1"></path>
     </defs>
-    <g id="invotra-labs-apps-admin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Invotra-Labs-Apps-Admin-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <use id="invotra-labs-apps-admin" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
     </g>
 </svg>
