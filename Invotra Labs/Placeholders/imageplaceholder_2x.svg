@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>imageplaceholder_2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="imageplaceholder_2x" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="192" height="192"></rect>
+        <g id="imageplaceholder">
+            <rect id="Rectangle" fill="#E7E7E7" x="0" y="0" width="192" height="192" rx="8"></rect>
+            <path d="M97.613662,76.0159611 L114.5,47 L150,108 L116,108 C116,128.434536 99.4345357,145 79,145 C58.5654643,145 42,128.434536 42,108 C42,87.5654643 58.5654643,71 79,71 C85.7862824,71 92.1458467,72.8269973 97.613662,76.0159611 Z M97.613662,76.0159611 L79,108 L116,108 C116,94.3517466 108.610276,82.4294558 97.613662,76.0159611 Z" id="Combined-Shape" fill="#B9B9B9"></path>
+        </g>
+    </g>
+</svg>
